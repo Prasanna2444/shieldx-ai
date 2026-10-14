@@ -82,4 +82,4 @@ def scan_url(raw_url):
         "score": score,
         "level": level,
         "findings": findings
-    }
+    } 
